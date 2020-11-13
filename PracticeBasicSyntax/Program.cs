@@ -33,7 +33,7 @@
                 r.Acceptdetails();
                 r.Display();
                 Console.ReadLine();
-                // quick practice on casting
+                // quick practice on casting 
 
                 double d = 5673.74;
                 int i;
